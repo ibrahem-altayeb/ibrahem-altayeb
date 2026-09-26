@@ -63,13 +63,7 @@ A modern movie discovery application built with React.
 🔗 **Live:** [CinePop](https://cinepop-azure.vercel.app/)
 💻 **GitHub:** [CinePop Repository](https://github.com/ibrahem-altayeb/Cinepop)
 
-### 🚀 YC Directory
 
-A startup directory application built with Next.js and TypeScript.
-
-💻 **GitHub:** [YC Directory Repository](https://github.com/ibrahem-altayeb/YC_Directory)
-
----
 
 ## 📚 Currently Learning
 
