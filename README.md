@@ -7,3 +7,22 @@ I'm passionate about building modern, responsive, and user-friendly web applicat
 🚀 Currently building projects with **React, Next.js, JavaScript, and TypeScript**.
 
 ✨ Always learning. Always building. Always improving.
+
+---
+
+## 🔥 When I'm Not Coding
+
+* 🎮 Exploring technology and new ideas
+* 📚 Learning new programming concepts
+* 💻 Working on personal projects
+* 🌐 Exploring modern web development
+
+---
+
+## 🌟 What I Do Best
+
+* 🚀 Building modern and responsive web applications
+* ⚛️ Developing applications with React and Next.js
+* 💡 Turning ideas into real-world projects
+* 🎨 Creating clean and user-friendly interfaces
+* 🧩 Solving problems and learning through development
